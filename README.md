@@ -44,18 +44,6 @@ npm run dev
 - **Interactive Map**: Explore monitored water bodies and their status
 - **Survey Forms**: Submit new water quality data from the field
 
-## Deployment
-
-The application can be deployed to any static hosting service:
-
-```sh
-# Build the application
-npm run build
-
-# Preview the production build locally
-npm run preview
-```
-
 ## Author
 
 Vansh Mehta
